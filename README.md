@@ -5,7 +5,4 @@ This reopsitory we will walk through generating gradient-weighted class activati
 
 
 
-The output of the model would be:
-
-![image](https://user-images.githubusercontent.com/64538407/112794703-fddfbc00-906f-11eb-874a-61d93f8308b9.png)
 
